@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **XML scraping with DOM Parser**
 
-- 🌱 I’m currently learning **Spring Framework and Hybernate**
+- 🌱 I’m currently learning **Spring Framework and Hibernate**
 
 - 📫 How to reach me **egecoskun4@gmail.com**
 
