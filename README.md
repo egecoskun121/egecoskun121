@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ege</h1>
 <h3 align="center">A passionate learner and researcher for back-end technologies</h3>
 
-- 🔭 I’m currently working on **REST API with Spring boot**
+- 🔭 I’m currently working on **SFG Pet Clinic with Spring**
 
-- 🌱 I’m currently learning **Spring Framework and Hibernate**
+- 🌱 I’m currently learning **Spring Framework**
 
 - 📫 How to reach me **egecoskun4@gmail.com**
 
