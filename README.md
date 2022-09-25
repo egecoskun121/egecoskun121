@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ege</h1>
 <h3 align="center">A passionate learner and researcher for back-end technologies</h3>
 
-- 🔭 I’m currently working on **final project of TÖDEB's Spring Bootcamp**
+- 🔭 I’m currently working on **Generalized CRM Project**
 
 - 🌱 I’m currently learning **Spring Framework**
 
