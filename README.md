@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Credit microservices**
 
-- 🌱 I’m currently learning **RabbitMQ**
+- 🌱 I’m currently learning **Kotlin**
 
 - 📫 How to reach me **egecoskun4@gmail.com**
 
