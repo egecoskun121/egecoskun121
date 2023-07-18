@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ege</h1>
 <h3 align="center">A passionate learner and researcher for back-end technologies</h3>
 
-- 🔭 I’m currently working on **Credit microservices**
+- 🔭 I’m currently working on a **loyalty app**
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **test containers**
 
-- 📫 How to reach me **egecoskun4@gmail.com**
+- 📫 How to reach me **ege.coskun@vngrs.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
