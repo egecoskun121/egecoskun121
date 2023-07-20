@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **test containers**
 
-- 📫 How to reach me **ege.coskun@vngrs.com*
+- 📫 How to reach me **ege.coskun@vngrs.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
